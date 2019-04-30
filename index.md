@@ -17,12 +17,12 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+--->
 ---
 
-### Category Name 2
+### Projects I have collaborated on
 
-- [Project 1 Title](http://example.com/)
+- [R Ladies for PAWS Datathon](https://github.com/rladiesPHL/2019_datathon/blob/master/Analyses/2019_RladiesDatathon_FinalReport.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
