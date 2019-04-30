@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
 ---
-[Bike Rental](/pdf/BikeRental_AncovaAnalysis.pdf)
+[Bike Rental - ANCOVA](/pdf/BikeRental_AncovaAnalysis.pdf)
 <!-- 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
