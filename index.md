@@ -34,7 +34,7 @@
 
 
 ### Blog
-- [Window into R Packages presented at the NY R Conference, 2019](https://ramaanathan.github.io/R_Packages/)
+- [R Packages mentioned at the NY R Conference, 2019](https://ramaanathan.github.io/R_Packages/)
 
 
 ---
