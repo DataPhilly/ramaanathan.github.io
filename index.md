@@ -29,9 +29,9 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
 --->
+---
+
 
 ### Blog
 - [Window into R Packages presented at the NY R Conference, 2019](https://ramaanathan.github.io/R_Packages/)
