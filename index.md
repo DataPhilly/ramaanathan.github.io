@@ -8,8 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
 
+[Multi Variate Analysis](https://ramaanathan.github.io/PSU_STAT505_MVA/)
+- Examples from [Penn State University's course on Multi Variate Analysis](https://newonlinecourses.science.psu.edu/stat505/) re-implemented in R
+
 [Bike Rental - ANCOVA](/pdf/BikeRental_AncovaAnalysis.pdf)<br>
-This was an observational study of a [public dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)  to model the various factors that influence bike rental. Three different models were compared – an ANOVA model, an ANCOVA model assuming no interaction between the covariate and the other factors, and a second ANCOVA model with interactions between the covariate and two of the factors. The third model was found to show significant group effects. 
+- This was an observational study of a [public dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)  to model the various factors that influence hourly bike rental. Three different models were compared – an ANOVA model, an ANCOVA model assuming no interaction between the covariate and the other factors, and a second ANCOVA model with interactions between the covariate and two of the factors. The third model was found to show significant group effects. 
 
 <!-- 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
