@@ -7,8 +7,10 @@
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
----
-[Bike Rental - ANCOVA](/pdf/BikeRental_AncovaAnalysis.pdf)
+
+[Bike Rental - ANCOVA](/pdf/BikeRental_AncovaAnalysis.pdf)<br>
+This was an observational study of a [public dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)  to model the various factors that influence bike rental. Three different models were compared – an ANOVA model, an ANCOVA model assuming no interaction between the covariate and the other factors, and a second ANCOVA model with interactions between the covariate and two of the factors. The third model was found to show significant group effects. 
+
 <!-- 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
