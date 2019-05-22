@@ -19,6 +19,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
 ---
+### Data Visualizations
+- [Visualizations using Highcharts and Highmaps](https://ramaanathan.github.io/HighchartViz/)
+These charts are examples from the HighCharts Demo website. Here, I have played around with the custom themes to give the charts a different look.
+---
 
 ### Projects I have collaborated on
 
