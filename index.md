@@ -26,7 +26,7 @@
 ---
 ### Data Visualizations
 - [Visualizations using Highcharts and Highmaps](https://ramaanathan.github.io/HighchartViz/)<br>
-These charts are examples from the HighCharts Demo website. Here, I have played around with the custom themes to give the charts a different look.
+These charts are examples from the [HighCharts Demo website](https://www.highcharts.com/demo). Here, I have played around with the custom themes to give the charts a different look.
 
 ---
 
